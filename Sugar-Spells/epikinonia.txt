@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Επικοινωνία-Sugar & Spells</title>
+</head>
+<body bgcolor="#FFFF99"> 
+<h1 style="text-align:center;color:#FF69B4;">Επικοινωνία</h1>
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="200">
+<img src="epikinonia.jpg" width="200" height="200">
+</td></tr>
+</table>
+<table border="0" align="center">
+<tr>
+
+<td align="center" width="200">
+<p><strong><em> Επωνυμία</em></strong></p></td>
+<td><p> Sugar & Spells </p></td>
+</tr>
+<tr>
+<td align="center" width="200">
+<p><strong><em> Διεύθυνση</em></strong></p></td>
+<td><p> Θεοδωρακοπούλου 57, Παγκράτι, Αθήνα</p></td>
+</tr>
+<tr>
+<td align="center" width="200">
+<p><strong><em> Τηλέφωνο επικοινωνίας</em></strong> (για παραγγελίες):</p></td>
+<td> <p> 2105773913 </p></td>
+</tr>
+<tr>
+<td align="center" width="200">
+<p><strong><em>Email</em></strong></p></td>
+<td><p> sugar_spells@gmail.com </p></td>
+</tr>
+</table>
+<br/><br/>
+<p align="center">
+<a href="index.html">Αρχική Σελίδα</a>
+</p>
+</body>
+</html>
+

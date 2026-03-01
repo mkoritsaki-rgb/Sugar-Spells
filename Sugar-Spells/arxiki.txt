@@ -1,0 +1,50 @@
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Sugar & Spells</title>
+</head>
+<body bgcolor="#FFFF99">
+
+<h1 style="text-align:center; color:#FF69B4;">Sugar & Spells</h1>
+<br/><br/>
+
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="400">
+      <img src="sugar_spells1.jpg" width="400" height="400" alt="Sugar & Spells Image 1">
+      <p>
+        Σου αρέσει το διάβασμα; Το απολαμβάνεις καλύτερα με συντροφιά ένα μικρό γλυκό; 
+        Όταν σκέφτεσαι το ιδανικό πάρτι γενεθλίων, το φαντάζεσαι με μπόλικες νιφάδες αστερόσκονης, 
+        λαμπιόνια, ουράνια τόξα με πολλά χρώματα και γλυκίσματα που σε ταξιδεύουν σε μαγικούς τόπους. 
+        Surprise! Βρίσκεσαι στο ιδανικό σημείο, εκεί όπου όλα τα όνειρά σου μπορούν να γίνουν πραγματικότητα: 
+        στο <strong><em>Sugar & Spells</em></strong>.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="400">
+      <img src="sugar_spells2.jpg" width="400" height="400" alt="Sugar & Spells Image 2">
+      <p>
+        Στο <strong><em>Sugar & Spells</em></strong> η ζαχαροπλαστική συναντά τη μαγεία των βιβλίων. 
+        Φτιάχνουμε γλυκά που σε ταξιδεύουν σε έναν κόσμο γεμάτο γεύσεις και φαντασία, με συνταξιδιώτες τους 
+        ήρωες των βιβλίων που αγάπησες όταν ήσουν παιδί! Στο ζαχαροπλαστείο μας θα βρεις λαχταριστά κέικ, 
+        κρουασάν διαφόρων γεύσεων, χειροποίητα σοκολατάκια και τούρτες εμπνευσμένες από παραμύθια, ιδανικές για πάρτι. 
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<p align="center">
+  <a href="about.html">Σχετικά με εμάς</a>
+</p>
+
+</body>
+</html>
